@@ -8,6 +8,9 @@
       "@/container/*": [
         "container/*"
       ],
+      "@/formatTypes/*": [
+        "formatTypes/*"
+      ],
     },
     "target": "es5",
     "lib": [

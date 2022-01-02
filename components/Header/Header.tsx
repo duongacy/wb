@@ -1,8 +1,6 @@
-import RightArrow from "@/components/svg/common/RightArrow";
-import Image from "next/image";
-import React, { HTMLProps } from "react";
+import React from "react";
 import SmallLink from "../common/SmallLink";
-import Logo from "../svg/common/logo";
+import { Logo } from "../svg/common";
 
 interface HeaderProps {}
 

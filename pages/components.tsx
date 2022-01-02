@@ -12,7 +12,6 @@ import {
   DefaultOutline,
   DownloadOutline,
   EditOutline,
-  GlobalOutline,
   HelpOutline,
   MapOutline,
   MinusOutline,
@@ -156,11 +155,6 @@ const about = (props: Props) => {
           <EditOutline size="SMALL" />
           <EditOutline size="MEDIUM" />
           <EditOutline size="LARGE" />
-        </div>
-        <div>
-          <GlobalOutline size="SMALL" />
-          <GlobalOutline size="MEDIUM" />
-          <GlobalOutline size="LARGE" />
         </div>
         <div>
           <HelpOutline size="SMALL" />
